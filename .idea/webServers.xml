@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2be1795d-4a7c-4df4-aab0-f3c084af8c51" name="kylin" url="http://192.168.56.101">
+        <fileTransfer host="192.168.56.101" port="22" rootFolder="/home/hkx/work/test_proj" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
